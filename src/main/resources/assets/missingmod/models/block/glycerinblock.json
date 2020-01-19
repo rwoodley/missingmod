@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "missingmod:block/glycerinblock",
+    "down": "missingmod:block/glycerinblock",
+    "up": "missingmod:block/glycerinblock",
+    "east": "missingmod:block/glycerinblock",
+    "west": "missingmod:block/glycerinblock",
+    "north": "missingmod:block/glycerinblock",
+    "south": "missingmod:block/glycerinblock"
+  }
+}
