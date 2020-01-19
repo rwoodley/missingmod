@@ -13,7 +13,7 @@ You can build and debug in Intellij if you want. Here are the steps:
 
 - Before opening Intellij, generate your run configurations. Go to the terminal and run the following command:
 
-    gradlew genIntellijRuns
+    `gradlew genIntellijRuns`
 
 
 - From the Idea splash screen select Import Project. Navigate to the location where you cloned this repo and select the build.gradle file and click OK. Leave the defaults on the next screen and click OK again.
